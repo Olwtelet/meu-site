@@ -43,6 +43,7 @@ skills: [
     'SQL',
     'HTML',
     'CSS3',
+    'RAG',
     'Git',
     'GitHub Actions',
     'Docker',
@@ -68,9 +69,11 @@ skills: [
     'Test-Driven Development',
     'Unit & Integration Testing',
     'Vite',
+    'LLMs',
     'Mongoose',
     'TailwindCSS',
     'REST APIs',
+    'Multi-Agent Systems',
     'Express',
     'MongoDB',
     'Visual Studio',
@@ -107,6 +110,15 @@ skills: [
       link: {
        label: 'Obsidian Second Brain',
        href: 'https://github.com/Olwtelet/Obsidian-Second-Brain'
+      }
+    },
+    {
+      title: 'AgentForge',
+      techStack: ['Python', 'LLMs', 'Multi-Agent Systems', 'RAG'],
+      description: 'A hands-on platform to build, test, and benchmark modern AI agent frameworks with real-world examples and multi-agent workflows.',
+      link: {
+       label: 'View Project',
+       href: 'https://github.com/Olwtelet/AgentForge'
       }
     },
     {
